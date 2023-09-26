@@ -9,6 +9,7 @@ copyBtn.classList.add('copy');
 const resultArea = document.createElement("div");
 resultArea.classList.add('result-area');
 
+console.log('Hola')
 
 function encriptar() {
     let result = textArea.value;
